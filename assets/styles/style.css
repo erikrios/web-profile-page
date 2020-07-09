@@ -8,6 +8,12 @@ h3 {
     color: #00a2c6;
 }
 
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
 footer {
     color: white;
     padding: 20px;
