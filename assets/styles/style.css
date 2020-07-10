@@ -18,6 +18,12 @@
             font-weight: bold;
         }
         
+        nav li {
+            display: inline;
+            list-style-type: none;
+            margin-right: 20px;
+        }
+        
         .profile header {
             text-align: center;
         }
