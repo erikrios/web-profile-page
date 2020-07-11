@@ -66,6 +66,11 @@
             color: white;
         }
         
+        #content {
+            float: left;
+            width: 75%;
+        }
+        
         footer {
             color: white;
             padding: 20px;
